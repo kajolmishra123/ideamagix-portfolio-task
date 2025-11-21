@@ -91,7 +91,10 @@ Create an account at https://www.netlify.com
 URL:-https://beautiful-pie-3a94e3.netlify.app/
 
 screenshots:-
-
+<img width="1876" height="863" alt="image" src="https://github.com/user-attachments/assets/15158de9-1cc1-4e3a-aadf-7ad3a144c4af" />
+<img width="1808" height="866" alt="image" src="https://github.com/user-attachments/assets/ab271404-3a25-443d-bcda-b52d105a8ef4" />
+<img width="1819" height="848" alt="image" src="https://github.com/user-attachments/assets/edfb4c8c-cccc-461b-aef1-ae5bf80ce97b" />
+<img width="1802" height="850" alt="image" src="https://github.com/user-attachments/assets/74b70eab-efc5-4669-8f52-158094fef83e" />
 
 
 
